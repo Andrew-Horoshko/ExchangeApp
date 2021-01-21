@@ -1,0 +1,20 @@
+﻿.moneyField {
+    Height: 37px;
+    Width: 234px;
+    border-color: limegreen;
+    border-width: 0.5px;
+    border-radius: 8px;
+}
+.button {
+    color:white;
+    background-color: limegreen;
+    border: none;
+    height: 40px;
+    font-family: Verdana;
+    border-radius: 8px;
+}
+.Error{
+    width:200px;
+    text-align:center;
+    border-color :white;
+}
